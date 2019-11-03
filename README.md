@@ -1,9 +1,9 @@
-# PROGRAMMING FOR DATA ANALYSIS
+# PROGRAMMING FOR DATA ANALYSIS 2019
 
 ## Project #1: Investigation into numpy.random package.
 
 For more information please visit the Githib repository: 
-https://github.com/JuliaMal/Numpy-random_project
+https://github.com/JuliaMal/Numpy-random_project.git
 
 The Github repository contains the following files:
    1. Numpy-random.ipynb - This is a Jupyter notebook, that contains the main body of work, explanations, notes. references. etc.
@@ -19,9 +19,11 @@ The Github repository contains the following files:
 
    #2 How to run the code:
 
-        1. The Jupyter Notebook software is included in the Python installation we obtained from Anaconda. 
-        2. First you need to install Python from Anaconda.
-        3. Then open a terminal window.
-        4. Make sure that you're in the same directory as the saved in the repository, you have downloaded in step #1 (Type cd Path_to_the_folder, e.g. cd C:\User\GMIT\Project_1)
-        5. Type jupyter notebook or jupyter lab to launch the Jupyter Notebook App.
-        6. The notebook interface will appear in a new browser window or tab.
+   Note: The Jupyter Notebook software is included in the Python installation, obtained from Anaconda. 
+   
+        1. First you need to install Python from Anaconda.
+        2. Then open a terminal window.
+        3. Make sure that you're in the same directory as you saved in the repository, you have downloaded in step #1 (Type cd Path_to_the_folder, e.g. cd C:\User\GMIT\Project_1)
+        4. Type "jupyter notebook" or "jupyter lab" to launch the Jupyter Notebook App.
+        5. The notebook interface will appear in a new browser window or tab.
+        6. To close the jupyter notebook: you need to close it first in the browser, then come back to your terminal window (make sure that the courser is active in the last line) and press Ctrl+C.
