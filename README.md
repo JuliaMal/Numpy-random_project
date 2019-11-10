@@ -1,4 +1,4 @@
-# PROGRAMMING FOR DATA ANALYSIS 2019
+# PROGRAMMING FOR DATA ANALYSIS - GMIT MODULE 2019
 
 ## Project #1: Investigation into numpy.random package.
 
@@ -11,13 +11,13 @@ The Github repository contains the following files:
    3. .gitignore - This file tells git which files (or patterns) should be ignored. In our case it's Python.
    4. LICENSE - This is an open source license. As this repository is maintained as PUBLIC, a license needs to be in place, so that others are free to use, change and distribute it.
 
-   #1 How to download this repository:
+   #1. How to download this repository:
 
         1. Go to Github or click on the link provided earlier.
         2. Click the "Clone or Download" button
         3. Choose between the options "Open in Desktop" or "Download ZIP"
 
-   #2 How to run the code:
+   #2. How to run the code:
 
    Note: The Jupyter Notebook software is included in the Python installation, obtained from Anaconda. 
    
